@@ -1,0 +1,25 @@
+[
+  {
+    "id": 1,
+    "date": "2022-05-18T17:10:01.000+00:00",
+    "completed": true,
+    "user": {
+      "id": 1,
+      "username": "ilyuza",
+      "email": "ilyuza@mail.ru",
+      "password": "qwerty007",
+      "roles": [ ]
+    },
+    "workout": {
+      "id": 1,
+      "name": "cardio workout",
+      "user": {
+        "id": 1,
+        "username": "ilyuza",
+        "email": "ilyuza@mail.ru",
+        "password": "qwerty007",
+        "roles": [ ]
+      }
+    }
+  }
+]
